@@ -11,7 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"name": "Barney Rubble",
 	"version": "v1.01",
 	"author": "irene"
 }
